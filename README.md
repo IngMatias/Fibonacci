@@ -77,6 +77,7 @@ Retrieve statistics for all Fibonacci numbers that have been queried at least on
 
 **Response Example:**
 
+```
 [
     {
         "id": 1,
@@ -89,6 +90,7 @@ Retrieve statistics for all Fibonacci numbers that have been queried at least on
     },
     ...
 ]
+```
 
 ### **Get One Statistic**
 
